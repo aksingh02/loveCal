@@ -1,0 +1,26 @@
+h1, h2{
+    text-align: center;
+}
+body{
+    background-color: #f88b9b;
+}
+div{
+    width: auto;
+    height: 100px;
+    text-align: center;
+    color: #f8ccd3;
+    font-size: xx-large;
+}
+span{
+    font-weight: bold;
+}
+#suggestion{
+    text-align: left;
+    color: black;
+}
+.b1:hover{
+    background-color: #f36b7f;
+    border-radius: 2px;
+    border-color: #f88b9b;
+    font-weight: bolder;
+}
